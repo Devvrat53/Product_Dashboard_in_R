@@ -1,0 +1,14 @@
+name: superstore
+title: superstore
+username:
+account: dmungekar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8877030
+bundleId: 7101295
+url: https://dmungekar.shinyapps.io/superstore/
+when: 1681763308.39067
+lastSyncTime: 1681763308.39068
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cleaned.py|Global Superstore Orders 2016.csv|Global Superstore Orders 2016.xlsx
